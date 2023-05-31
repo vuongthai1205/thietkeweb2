@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="495px" height="111px" viewBox="0 0 495 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>red ribbon</title>
+    <defs>
+        <filter x="-5.0%" y="-30.2%" width="110.0%" height="160.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#DD6081" offset="0%"></stop>
+            <stop stop-color="#CA4962" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="red-ribbon" filter="url(#filter-1)" transform="translate(17.000000, 17.000000)">
+            <polygon id="Rectangle" fill="#CB5169" points="1.62003744e-12 16 76 12 76 72.115942 1.62003744e-12 76.115942 21.1111111 46.5507246"></polygon>
+            <polygon id="Rectangle" fill="#AE3950" points="36 0 76 11.8356164 76 72 36 60.1643836"></polygon>
+            <polygon id="Rectangle" fill="#B83F57" transform="translate(423.000000, 44.000000) scale(-1, 1) translate(-423.000000, -44.000000) " points="385 15.884058 461 12 461 72.115942 385 76 406.111111 46.4347826"></polygon>
+            <polygon id="Rectangle" fill="#963044" transform="translate(405.000000, 36.000000) scale(-1, 1) translate(-405.000000, -36.000000) " points="385 0 425 11.8356164 425 72 385 60.1643836"></polygon>
+            <path d="M36,0 C100.474625,2.62564103 165.186319,3.93846154 230.135084,3.93846154 C295.083849,3.93846154 360.038821,2.62564103 425,0 L425,60.0615385 C359.807958,62.6871795 294.852986,64 230.135084,64 C165.417183,64 100.705488,62.6871795 36,60.0615385 L36,0 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

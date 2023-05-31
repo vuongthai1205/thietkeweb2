@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="1400px" viewBox="0 0 500 1400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background Shape right</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="500" height="1400"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFDDE3" offset="0%"></stop>
+            <stop stop-color="#FFFAFB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="2.02521395%" id="linearGradient-4">
+            <stop stop-color="#FFF0F2" offset="0%"></stop>
+            <stop stop-color="#FFCFD6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFC4CD" offset="0.0136582168%"></stop>
+            <stop stop-color="#FFE3E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFB1BD" offset="0.0136582168%"></stop>
+            <stop stop-color="#FFEAED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-780.000000, -2129.000000)">
+            <g id="Background-Shape-right" transform="translate(1030.000000, 2829.000000) rotate(-180.000000) translate(-1030.000000, -2829.000000) translate(780.000000, 2129.000000)">
+                <g id="Path-4-+-Path-4-+-Path-3-+-Path-3-Mask" transform="translate(0.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M-42.7942744,-105.031619 C-42.7942744,142.043924 206.585616,135.991106 329.672344,268.686637 C452.759071,401.382169 465.696338,616.286646 337.65643,785.045073 C209.616522,953.803501 5.95947025,1284.94982 -8.10457364,1450.6537 C-17.4806029,1561.12295 -38.445745,1262.01248 -71,553.322279 C-52.1961829,-50.2973475 -42.7942744,-269.748647 -42.7942744,-105.031619 Z" id="Path-4" fill="url(#linearGradient-3)" opacity="0.4" mask="url(#mask-2)"></path>
+                    <path d="M-33.5697917,16.8066313 C1.46374301,278.039201 237.514764,240.355099 295.873464,356.464804 C354.232164,472.57451 335.400836,638.655172 285.388978,742.449622 C235.377119,846.244071 12.2312647,1197.63591 1.46374301,1347.85842 C-5.71460478,1448.00676 -25.2690264,1192.35064 -57.1995217,580.89006 C-64.8020581,30.6793946 -56.9254814,-157.348415 -33.5697917,16.8066313 Z" id="Path-4" fill="url(#linearGradient-4)" opacity="0.4" mask="url(#mask-2)"></path>
+                    <path d="M-13.2094414,114.809262 C-8.38242942,355.356352 214.832109,323.833513 263.119313,479.871025 C311.406517,635.908537 231.789783,667.706438 172.419404,842.633799 C113.049025,1017.56116 -4.51133366,1080.13185 -13.2094414,1248.24652 C-19.0081799,1360.32297 -24.6050327,1039.32626 -30,285.256382 C-22.0243022,11.2602429 -16.4274494,-45.5554638 -13.2094414,114.809262 Z" id="Path-3" fill="url(#linearGradient-5)" opacity="0.4" mask="url(#mask-2)"></path>
+                    <path d="M-34.4258146,279.032593 C-30.5234575,474.138713 149.932451,448.570751 188.969834,575.131723 C228.007217,701.692696 163.64174,727.483759 115.644258,869.36616 C67.6467766,1011.24856 -27.3939029,1061.99923 -34.4258146,1198.3559 C-39.1137558,1289.26035 -43.6384843,1028.90208 -48,417.281101 C-41.5521145,195.044683 -37.027386,148.961847 -34.4258146,279.032593 Z" id="Path-3" fill="url(#linearGradient-6)" opacity="0.4" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
